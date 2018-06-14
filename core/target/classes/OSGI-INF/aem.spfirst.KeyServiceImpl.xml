@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component name="aem.spfirst.KeyServiceImpl">
+        <implementation class="aem.spfirst.KeyServiceImpl"/>
+        <service servicefactory="false">
+            <provide interface="aem.spfirst.KeyService"/>
+        </service>
+        <property name="service.vendor" value="Adobe"/>
+        <property name="service.pid" value="aem.spfirst.KeyServiceImpl"/>
+    </scr:component>
+</components>

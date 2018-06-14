@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0">
+    <scr:component name="sp.com.sp1024ad.core.servlets.SubmitEnquiryService">
+        <implementation class="sp.com.sp1024ad.core.servlets.SubmitEnquiryService"/>
+        <service servicefactory="false">
+            <provide interface="javax.servlet.Servlet"/>
+        </service>
+        <property name="sling.servlet.paths">
+            /bin/submitEnquiryServlet
+        </property>
+        <property name="sling.servlet.methods">
+            POST
+        </property>
+        <property name="service.vendor" value="Adobe"/>
+        <property name="service.pid" value="sp.com.sp1024ad.core.servlets.SubmitEnquiryService"/>
+        <reference name="repository" interface="org.apache.sling.jcr.api.SlingRepository" cardinality="1..1" policy="static" bind="bindRepository" unbind="unbindRepository"/>
+        <reference name="resolverFactory" interface="org.apache.sling.api.resource.ResourceResolverFactory" cardinality="1..1" policy="static" bind="bindResolverFactory" unbind="unbindResolverFactory"/>
+    </scr:component>
+</components>
