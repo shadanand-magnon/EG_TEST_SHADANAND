@@ -11,6 +11,7 @@ sp\com\sp1024ad\core\models\HelloWorldModel.class
 sp\com\sp1024ad\core\listeners\SimpleResourceListener.class
 sp\com\sp1024ad\core\package-info.class
 sp\com\sp1024ad\core\servlets\SubmitEnquiryService.class
+sp\com\sp1024ad\core\workflow\CustomStepWF.class
 aem\spfirst\SearchService.class
 aem\spfirst\KeyService.class
 sp\com\sp1024ad\core\models\MultiFieldModel.class

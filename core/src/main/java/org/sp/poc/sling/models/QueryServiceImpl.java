@@ -23,7 +23,7 @@ import com.day.cq.search.result.SearchResult;
 @Component
 
 @Service
-public class QueryServiceImpl implements QueryService {
+public class QueryServiceImpl implements QueryService{
 
 	/** Default log. */
 	protected final Logger log = LoggerFactory.getLogger(this.getClass());
@@ -51,6 +51,8 @@ public class QueryServiceImpl implements QueryService {
 			Map<String, String> map = new HashMap<String, String>();
 
 			// create query description as hash map (simplest way, same as form post)
+			
+			//DateTime lastWeek = new DateTime().minusDays(7);
 
 			map.put("path", "/content/dam/training");
 			//map.put("type", "sling:Folder");
