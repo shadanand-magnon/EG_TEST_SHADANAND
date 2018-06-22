@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0">
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
     <scr:component name="org.sp.poc.sling.models.QueryServiceImpl">
         <implementation class="org.sp.poc.sling.models.QueryServiceImpl"/>
         <service servicefactory="false">

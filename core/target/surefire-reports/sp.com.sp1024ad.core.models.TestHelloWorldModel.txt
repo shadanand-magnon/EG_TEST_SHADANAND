@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: sp.com.sp1024ad.core.models.TestHelloWorldModel
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.438 sec - in sp.com.sp1024ad.core.models.TestHelloWorldModel
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.312 sec - in sp.com.sp1024ad.core.models.TestHelloWorldModel
