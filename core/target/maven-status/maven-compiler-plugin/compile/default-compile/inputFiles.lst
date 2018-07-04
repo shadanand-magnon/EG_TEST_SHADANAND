@@ -1,4 +1,5 @@
 E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\enquiry\sp\EnquiryServiceImpl.java
+E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\sp\com\sp1024ad\core\models\SlideshowFiledValuesPOJO.java
 E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\aem\spfirst\KeyServiceImpl.java
 E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\sp\com\sp1024ad\core\models\FiledValuesPOJO.java
 E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\aem\spfirst\SearchService.java
@@ -14,6 +15,7 @@ E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\sp\com\sp1024ad\core\serv
 E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\sp\com\sp1024ad\core\schedulers\SimpleScheduledTask.java
 E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\aem\spfirst\SpFirstServiceImpl.java
 E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\sp\com\sp1024ad\core\listeners\SimpleResourceListener.java
+E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\sp\com\sp1024ad\core\models\SlideshowFieldModel.java
 E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\sp\com\sp1024ad\core\workflow\CustomStepWF.java
 E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\sp\com\sp1024ad\core\models\SlingModels.java
 E:\eclipse\github\EG_TEST_SHADANAND\core\src\main\java\sp\com\sp1024ad\core\filters\LoggingFilter.java

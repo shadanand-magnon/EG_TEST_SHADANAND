@@ -14,8 +14,10 @@ sp\com\sp1024ad\core\servlets\SubmitEnquiryService.class
 sp\com\sp1024ad\core\workflow\CustomStepWF.class
 aem\spfirst\SearchService.class
 aem\spfirst\KeyService.class
+sp\com\sp1024ad\core\models\SlideshowFieldModel.class
 sp\com\sp1024ad\core\models\MultiFieldModel.class
 org\sp\poc\sling\models\QueryService.class
+sp\com\sp1024ad\core\models\SlideshowFiledValuesPOJO.class
 sp\com\sp1024ad\core\models\SlingModels.class
 enquiry\sp\EnqueryResultsMapper.class
 org\sp\poc\sling\models\UserInfo.class
